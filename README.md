@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a chat app**
+ 🔭 I’m currently working on **a chat-bot app**
  
  🌱 I’m currently learning **docker, Tailwind, nextJS**
 
@@ -37,8 +37,15 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,typescript,php" /><br>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mongodb,mysql,next,express,tailwind,figma,git,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react,typescript,php" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,mongodb,mysql,next,express,tailwind,figma,git,nestjs" />
+</div>
+<br/>
+
+<h2 align="center">⚒️ Server ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=docker,nginx,linux,powershell,kubernetes,aws" />
 </div>
 
 <br/>
