@@ -5,7 +5,6 @@
 </h1>
 
 <h3 align="center">A passionate software developer from Argentina 🇨🇦</h3>
-
 <br/>
 
 <div align="center">
@@ -19,19 +18,17 @@
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
  </div>
- 
-<div align="center"> 
+ <div align="center"> 
+  <a href="https://www.instagram.com/matynzamora/">
+    <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" />
+  </a>
   <a href="mailto:devmatiasnzamora@gmail.com.ar">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/matiasnzamora" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://matiasnzamora.com.ar" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
