@@ -42,7 +42,7 @@
 <h2 align="center">⚒️ Server ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=docker,nginx,linux,powershell,kubernetes,aws" />
+    <img src="https://skillicons.dev/icons?i=docker,nginx,linux,powershell,aws" />
 </div>
 
 <br/>
