@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning ** Docker, GraphQL, NestJS, AWS **
 
- 💬 Ask me about **NodeJS, React, Angular, TypeScrypt, MongoDB, SQL, graphQL... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **NodeJS, React, Angular, TypeScrypt, MongoDB, SQL, graphQL... or anything [here][(https://www.matiasnzamora.com.ar)]**
 
  ⚡ Fun ** Anime, Video-Game, Cook **
  
