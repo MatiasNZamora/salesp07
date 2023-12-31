@@ -11,11 +11,11 @@
  
  🔭 I’m currently working on **a chat-bot app**
  
- 🌱 I’m currently learning **docker, Tailwind, nextJS**
+ 🌱 I’m currently learning ** Docker, GraphQL, NestJS, AWS **
 
- 💬 Ask me about **Node.js, React, TypeScrypt, MongoDB, SQL... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **NodeJS, React, Angular, TypeScrypt, MongoDB, SQL, graphQL... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
- ⚡ Fun ** Anime, Video Game **
+ ⚡ Fun ** Anime, Video-Game, Cook **
  
  </div>
  <div align="center"> 
